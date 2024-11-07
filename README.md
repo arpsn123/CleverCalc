@@ -1,7 +1,6 @@
 # Arp's Calculator
 
-![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
-![Tkinter](https://img.shields.io/badge/Tkinter-8.6-green.svg)
+
 
 ## Overview
 
@@ -14,7 +13,8 @@ Arp's Calculator is a simple graphical user interface (GUI) calculator built usi
 - User-friendly interface with error handling
 
 ## Technology Stack
-
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![Tkinter](https://img.shields.io/badge/Tkinter-8.6-green.svg)
 - **Programming Language**: Python
 - **GUI Framework**: Tkinter
 
