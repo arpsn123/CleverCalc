@@ -1,5 +1,18 @@
 # Arp's Calculator
 
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/CleverCalc?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/CleverCalc?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/CleverCalc)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/CleverCalc)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/CleverCalc)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/CleverCalc)
+![GitHub License](https://img.shields.io/github/license/arpsn123/CleverCalc)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/CleverCalc)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/CleverCalc)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/CleverCalc)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/CleverCalc?style=social)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/arpsn123/CleverCalc)
+![Maintenance Status](https://img.shields.io/badge/Maintained-Yes-green)
 
 
 ## Overview
